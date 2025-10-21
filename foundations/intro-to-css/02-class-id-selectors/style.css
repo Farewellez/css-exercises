@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.aclass {
+    background-color: rgba(255, 167, 167, 1);
+    font-size: 25px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#oneID {
+    font-size: 60px;
+    padding-bottom: 0.5%;
+    color: blue;
+}
+.cooler{
+    background-color: rgba(255, 167, 167, 1);
+    font-size: 45px;
+}
+#another {
+    background-color: rgb(128, 255, 128);
+    font-size: 45px;
+    font-weight: bold;
+}
